@@ -74,6 +74,7 @@ XXL-JOB是一个轻量级分布式任务调度平台，其核心设计目标是�
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190919173251987.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzI4NzUwOA==,size_16,color_FFFFFF,t_70)
 ## 源码
 GitHub：[https://github.com/lhb124520/xxl-job-executor-sample-demo](https://github.com/lhb124520/xxl-job-executor-sample-demo)
+
 码云：[https://gitee.com/lhblearn/xxl-job-executor-sample-demo](https://gitee.com/lhblearn/xxl-job-executor-sample-demo)
 
 
